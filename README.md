@@ -41,3 +41,6 @@ Move disk 2 from A to C
 Move disk 1 from B to C 
 Program ended with exit code: 0
 ```
+
+
+> Remember that this code is written in Xcode. If you run this in Turbo C++ you need to add `#include<conio.h>` , `clrscr();` and `getch();` in your code.
