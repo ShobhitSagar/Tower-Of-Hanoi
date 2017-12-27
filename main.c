@@ -7,8 +7,13 @@ int main()
     int number;
     printf("Enter the number of disks \n");
     scanf("%d",&number);
-    printf("The sequence on moves involved in %d number of disks in Tower of Hanoi are : \n",number);
-    towerFun(number, 'A', 'C', 'B');
+    if (number < 1)
+        printf("NO DISK TO MOVE\n");
+    else
+    {
+        printf("The sequence on moves involved in %d number of disks in Tower of Hanoi are : \n",number);
+        towerFun(number, 'A', 'C', 'B');
+    }
     return(0);
 }
 
