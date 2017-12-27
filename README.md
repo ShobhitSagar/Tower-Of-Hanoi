@@ -16,3 +16,24 @@ obeying the following simple rules:
   
 * No disk may be placed on top of a smaller disk.
 
+```
+Enter the number of disks 
+4
+The sequence on moves involved in 4 number of disks in Tower of Hanoi are : 
+Move disk 1 from A to B 
+Move disk 2 from A to C 
+Move disk 1 from B to C 
+Move disk 3 from A to B 
+Move disk 1 from C to A 
+Move disk 2 from C to B 
+Move disk 1 from A to B 
+Move disk 4 from A to C 
+Move disk 1 from B to C 
+Move disk 2 from B to A 
+Move disk 1 from C to A 
+Move disk 3 from B to C 
+Move disk 1 from A to B 
+Move disk 2 from A to C 
+Move disk 1 from B to C 
+Program ended with exit code: 0
+```
