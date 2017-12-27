@@ -16,6 +16,10 @@ obeying the following simple rules:
   
 * No disk may be placed on top of a smaller disk.
 
+---
+
+## OUTPUT
+
 ```
 Enter the number of disks 
 4
