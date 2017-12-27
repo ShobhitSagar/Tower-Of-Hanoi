@@ -1,11 +1,3 @@
-//
-//  main.c
-//  TowerOfHanoi
-//
-//  Created by Shobhit Sagar on 26/08/17.
-//  Copyright © 2017 Shobhit Sagar. All rights reserved.
-//
-
 #include <stdio.h>
 
 void towerFun(int, char, char, char);
@@ -31,4 +23,3 @@ void towerFun(int num, char fr, char tr, char ar)
     printf("Move disk %d from %c to %c \n",num,fr,tr);
     towerFun(num-1, ar, tr, fr);
 }
-
