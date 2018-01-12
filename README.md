@@ -18,6 +18,7 @@ obeying the following simple rules:
 
 ---
 
+
 ## OUTPUT
 
 ```
