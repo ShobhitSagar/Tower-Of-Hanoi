@@ -24,7 +24,7 @@ obeying the following simple rules:
 ```
 Enter the number of disks 
 4
-The sequence on moves involved in 4 number of disks in Tower of Hanoi are : 
+The sequence of moves involved in when there are 4 disks: 
 Move disk 1 from A to B 
 Move disk 2 from A to C 
 Move disk 1 from B to C 
